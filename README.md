@@ -4,7 +4,9 @@ How do I approach designing software?
 The software design process was structured around creating a realistic and relatable 3D scene. The choice of a desk workspace allowed for deliberate and functional design decisions:
 
 Inspiration: The workspace setup was chosen for its familiarity, ensuring users could easily connect with the virtual environment.
+
 Object Selection: Elements such as the monitor, keyboard, table, and legs were chosen for their simplicity and ability to demonstrate technical features like textures and lighting.
+
 Structural Integrity: Objects were built using foundational 3D shapes (boxes, cylinders, and planes) to maintain a balance between realism and computational efficiency.
 Realism and Engagement: By adding detailed touches, like marble textures for the table or a realistic monitor stand, the scene felt immersive.
 What new design skills has your work on the project helped you to craft?
